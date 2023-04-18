@@ -1,5 +1,5 @@
 # [Huffman-Code](https://en.wikipedia.org/wiki/Huffman_coding)
-##Huffman coding, Data compression
+## Huffman coding, Data compression
 
 Huffman coding compresses data by using fewer bits to encode characters that occur more frequently. The codes for the characters are constructed based on the occurrence of the characters in the text using a binary tree, called the Huffman coding tree. Compressing data is a common task. There are many utilities available for compressing files.
 
