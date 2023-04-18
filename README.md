@@ -18,4 +18,4 @@ nodes represent characters in the text.
 
 Java API implementation demo run:
 
-![image](https://user-images.githubusercontent.com/24220136/232643135-708fe229-166e-46ea-9fae-e099bccd91f2.png)
+![image](https://user-images.githubusercontent.com/24220136/232643207-6a46f95a-634d-4223-aa59-fc7609f73c61.png)
